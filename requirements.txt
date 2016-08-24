@@ -83,6 +83,7 @@ toronado==0.0.10          # via sentry
 ua-parser==0.7.1          # via sentry
 urllib3==1.16             # via sentry
 uwsgi==2.0.13.1           # via sentry
+sentry-pivotal==0.1.0
 
 # The following packages are commented out because they are
 # considered to be unsafe in a requirements file:
